@@ -1,6 +1,6 @@
 {
   "version": 0,
-  "buildings": [
+  "addresses": [
     "<h2 style=\"text-align: center;\"><strong><span style=\"color: #7aa0e7;\">а, б, в, н, нд</span></strong></h2><strong>Адрес</strong>: ул. Большая Семеновская, 38<br><strong>Проезд</strong>: пешком от м. Электрозаводская, Семеновская",
     "<h2 style=\"text-align: center;\"><strong><span style=\"color: #d69ad5;\">ав</span></strong></h2><strong>Адрес</strong>: ул. Автозаводская, 16<br /><strong>Проезд</strong>: от м. Автозаводская (Южный выход) пешком или тролл. No26, 40, 46, 67, авт.No9, 44, 99 (только в рабочие дни), 142, 147, 234, 263, 291 (остановка &laquo;1-я проходная ЗИЛ&raquo;)",
     "<h2 style=\"text-align: center;\"><span style=\"color: #b36666;\">пк</span></h2><strong>Адрес</strong>: ул. Павла Корчагина, 22<br /><strong>Проезд</strong>: от м. ВДНХ пешком или автобус 274,от м. Рижская автобус 714.",
